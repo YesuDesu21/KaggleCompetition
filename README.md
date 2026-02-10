@@ -1,0 +1,1 @@
+This repository is just for me to practice machine learning for my data science journey. I use kaggle to learn and practice machine learning coding.
